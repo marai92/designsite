@@ -1,0 +1,7 @@
+.ul {
+    list-style-type: disc;
+    color: rgba(149, 149, 149, 1);
+}
+.li {
+    margin-left: 16px;
+}
